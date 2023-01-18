@@ -1,0 +1,32 @@
+const Color = {
+    theme_color: '#f76d78',
+    placeholderColor: "#B5B5B5",
+    white: '#fff',
+    fontBlack: '#343A40',
+    fontGray: '#8A8A8A',
+    black: 'black',
+    green: '#3def7f',
+    orange: 'orange',
+    theme_color: 'red',
+    transparent: 'transparent',
+    grey: '#dadae8',
+    red: '#FF4C4C',
+    disableGrey: '#B0B0B0',
+    darkRed: '#B42025',
+    themeBlue: '#0085A2',
+    lightGray: 'lightgrey',
+    eritheiaBlue: '#0085A2',
+    drawerActivetint: '#e91e63',
+    tintColor: '#343A40',
+    backgroundColor: '#FAFAFA',
+    newThemeColor: '#DD384A',
+    borderColor: "#F3F3F3",
+    mehroonRed: "#C12126",
+    pending: '#FFB000',
+    approved: '#046E31',
+    rejected: '#CC283D',
+    mehroonIcon: "#dd384a",
+    borderGray: '#F3F3F3'
+}
+
+export default Color

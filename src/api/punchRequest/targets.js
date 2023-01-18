@@ -1,0 +1,6 @@
+import { apiVersion } from "../apiVersion"
+export const punchReq = apiVersion + "histories/missed"
+export const updateReq = apiVersion + "histories/"
+export const histories = apiVersion + "histories"
+export const historiesPersonal = apiVersion + "histories/personal"
+export const historiesEmployes = apiVersion + "histories/employees"

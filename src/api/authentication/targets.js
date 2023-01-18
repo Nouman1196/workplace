@@ -1,0 +1,6 @@
+import { apiVersion } from "../apiVersion"
+export const login = apiVersion + "sessions/sign_in"
+export const signUp = apiVersion + "company_registrations/sign_up"
+export const generateOtp = apiVersion + "profiles/generate_otp"
+export const verifyOtp = apiVersion + "profiles/verify_otp"
+export const updatePassword = apiVersion + "profiles/:id"

@@ -1,0 +1,5 @@
+// export const baseURL = "https://www.workplacecheckin.com/"
+// export const baseURL = "https://staging.workplacecheckin.com/"
+export const baseURL = "https://139f-2400-adc5-148-db00-45d3-9a89-329c-f0d1.in.ngrok.io/"
+export const baseURLEritheia = "https://www.eritheialabs.com"
+export const missingImage = "/assets/no-image-af4b4b41fa47ebcf38d2393641e6db4f3aa40859dcc65bf4a1860900aedc48e4.png"
